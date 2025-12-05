@@ -7,3 +7,8 @@
 .masthead .fa-cog {
   display: none !important;
 }
+
+/* Add extra space below the main title on the home page */
+.layout--home .page__content p:first-of-type {
+  margin-top: 1.5rem;
+}
