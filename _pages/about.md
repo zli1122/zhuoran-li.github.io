@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+title: "Brief Biography"
 author_profile: true
 redirect_from: 
   - /about/
