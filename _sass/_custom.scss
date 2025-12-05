@@ -2,3 +2,8 @@
 #theme-toggle {
   display: none !important;
 }
+
+/* Hide the big page title on the home page */
+.layout--home .page__title {
+  display: none;
+}
