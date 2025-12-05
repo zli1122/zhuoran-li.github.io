@@ -1,3 +1,11 @@
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Brief Biography
 
 Hi, my name is Zhuoran Li. I am a Postdoctoral Research Associate at the University of Arizona.  
