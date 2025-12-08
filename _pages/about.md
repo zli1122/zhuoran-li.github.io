@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi, my name is Zhuoran Li. I am a Postdoctoral Research Associate at the University of Arizona.  
-My research focuses on cybersecurity, hardware security, cryptography, and privacy-preserving machine learning.
+My research focuses on hardware security, privacy-preserving machine learning, and cryptography.
 
 # Education
 
